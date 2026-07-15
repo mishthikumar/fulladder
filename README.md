@@ -11,7 +11,7 @@ A Full Adder is a combinational logic circuit that adds three 1-bit binary input
 
 It produces two outputs:
 - Sum
-- Carry-out (Cout)
+- Carry (Cout)
 
 ## 📖 Truth Table
 
